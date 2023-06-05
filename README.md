@@ -1,7 +1,7 @@
 # Sebep_Okulu
-Her bir şeyin reposu.
+## Her bir şeyin reposu.
 
-Musa Bayır
+**Musa Bayır**
 
 İstanbul Teknik Üniversitesi
 
