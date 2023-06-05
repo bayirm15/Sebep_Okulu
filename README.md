@@ -1,11 +1,12 @@
 # Sebep_Okulu
-### Her bir şeyin reposu.
+ 
+### Nedeni açıklanabilen her bir şeyin reposu.
 
 **Musa Bayır**
 
 İstanbul Teknik Üniversitesi
 
-<img src="https://github.com/bayirm15/Sebep_Okulu/blob/main/sebep-okulu-logo.png" width="500" height="300">
+<img src="https://github.com/bayirm15/Sebep_Okulu/blob/main/sebep-okulu-logo.png" width="400" height="250">
 
 ## Repo İçeriği
 
