@@ -1,0 +1,22 @@
+İLK KISIM:
+https://medium.com/5bayt/ascii-nedir-9284ef5cd847
+https://netdunyasi.com/blog/ascii-tablosu
+https://www.youtube.com/watch?v=Xpk67YzOn5w
+https://yunus.hacettepe.edu.tr/~eacar/dersler/uygulamalar/bilgisayar.pdf
+https://www.tutorialandexample.com/how-does-a-computer-convert-text-into-binary
+
+
+İKİNCİ KISIM (PYTHON DEEP):
+https://techvidvan.com/tutorials/python-interpreter/
+https://net-informations.com/python/iq/linking.htm
+https://medium.com/@dpthegrey/what-is-interpreter-explain-how-python-interpreter-works-125205c1f8d6
+https://towardsdatascience.com/how-does-python-work-6f21fd197888
+https://towardsdatascience.com/pycache-python-991424aabad8
+https://www.geeksforgeeks.org/what-makes-python-a-slow-language/
+https://www.datasciencecentral.com/how-python-interpreter-works-1/
+https://speakerdeck.com/brettcannon/from-source-to-code-how-cpythons-compiler-works
+https://stackoverflow.com/questions/17130975/python-vs-cpython
+https://stackoverflow.com/questions/1644619/cpython-is-bytecode-interpreter?rq=1
+https://www.tutorialspoint.com/what-are-the-types-of-compilers
+https://python.plainenglish.io/python-under-the-hood-part-1-compilation-phase-818b942f0a0b
+https://www.berkaydemirel.dev/2018/11/java-jvmjava-virtual-machine-nedir.html
