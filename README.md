@@ -5,7 +5,7 @@
 
 İstanbul Teknik Üniversitesi
 
-<img src="https://github.com/bayirm15/Sebep_Okulu/blob/main/sebep-okulu-logo.png" width="500" height="250">
+<img src="https://github.com/bayirm15/Sebep_Okulu/blob/main/sebep-okulu-logo.png" width="500" height="300">
 
 ## Repo İçeriği
 
