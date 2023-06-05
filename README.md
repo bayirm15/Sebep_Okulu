@@ -4,7 +4,7 @@ Her bir şeyin reposu.
 Musa Bayır
 İstanbul Teknik Üniversitesi
 
-![alt text](https://github.com/bayirm15/Sebep_Okulu/sebep-okulu-logo.png)
+![alt text](https://github.com/bayirm15/Sebep_Okulu/blob/main/sebep-okulu-logo.png)
 
 ## Repo İçeriği
 
