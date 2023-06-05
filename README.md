@@ -11,7 +11,7 @@
 ## Repo İçeriği
 
 #### 1 - Sosyal_Beceri 
-- Düşünce_Yazılarım
+- Düşünce_Yazılarım[link text itself]
 - Kitap_Okuma_Önerileri
   - Kitap_Okuma_Öneri_Listesi
 #### 2 - Teknik_Beceri
