@@ -1,5 +1,5 @@
 # Sebep_Okulu
-## Her bir şeyin reposu.
+### Her bir şeyin reposu.
 
 **Musa Bayır**
 
@@ -9,6 +9,15 @@
 
 ## Repo İçeriği
 
-### Derin Öğrenmeye Giriş Öncesi Önemli Olduğunu Düşündüğüm Konular:
-##### 1 - Veri Bilimcinin Gözünden GİT - Versiyon Kontrol Sistemi [https://github.com/bayirm15/Full-stack-deep-learning/tree/main/1_G%C4%B0T] 
-##### 2 - Bilgisayar - Programlama Dili İlişkisi [https://github.com/bayirm15/Full-stack-deep-learning/tree/main/2_Bilgisayar_programlama_dili_ili%C5%9Fkisi]
+#### 1 - Sosyal_Beceri 
+- Düşünce_Yazılarım
+- Kitap_Okuma_Önerileri
+  - Kitap_Okuma_Öneri_Listesi
+#### 2 - Teknik_Beceri
+- Programlama
+  - GİT_Versiyon_Kontrol
+  - Python
+- Veri_ve_Yapay_Öğrenme
+  - Olasılık_İstatistik
+  - Makine_Öğrenmesi
+  - Derin_Öğrenme
