@@ -19,7 +19,7 @@
 - [Programlama](https://github.com/bayirm15/Sebep_Okulu/tree/main/Teknik_Beceri/Programlama)
   - GİT_Versiyon_Kontrol
   - Python
-- Veri_ve_Yapay_Öğrenme(https://github.com/bayirm15/Sebep_Okulu/tree/main/Teknik_Beceri/Veri_ve_Yapay_Öğrenme)
+- [Veri_ve_Yapay_Öğrenme](https://github.com/bayirm15/Sebep_Okulu/tree/main/Teknik_Beceri/Veri_ve_Yapay_Öğrenme)
   - Olasılık_İstatistik
   - Makine_Öğrenmesi
   - Derin_Öğrenme
