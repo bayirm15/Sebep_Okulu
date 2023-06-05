@@ -14,6 +14,7 @@
 - Kitap_Okuma_Önerileri
   - Kitap_Okuma_Öneri_Listesi
 #### 2 - Teknik_Beceri
+***El yazması ders notu tadında...***
 - Programlama
   - GİT_Versiyon_Kontrol
   - Python
