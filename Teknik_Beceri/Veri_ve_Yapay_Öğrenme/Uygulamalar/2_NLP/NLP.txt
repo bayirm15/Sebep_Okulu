@@ -1,1 +1,10 @@
-Planlandı. Çalışılacak.
+Tokenization
+
+Lemmatization
+
+Named Entity Recognition
+
+Word Embeddings
+
+
+Planlanma aşamasında.
