@@ -14,6 +14,6 @@ Olasılık_İstatistik, Makine_Öğrenmesi ve Derin_Öğrenme klasörlerinin mad
 
 2 - 
 
-"Uygulamalar" klasörü içerisine uygulama örnekleri sonrasında eklenecektir.
+"Uygulamalar" klasörü içerisine uygulama örnekleri bulunuyor.
     
 
